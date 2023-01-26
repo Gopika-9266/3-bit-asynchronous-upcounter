@@ -79,7 +79,7 @@ Timing Diagram:
 ![Screenshot (97)](https://user-images.githubusercontent.com/122762773/214799564-f19ba9ea-5124-4186-8a74-de684cc33b9e.png)
 
 
-###Truth table:
+Truth table:
 
 
 ![table-5-6-2](https://user-images.githubusercontent.com/122762773/214797834-7ec3a8a6-b151-4895-8cd0-b126a0ff3834.gif)
