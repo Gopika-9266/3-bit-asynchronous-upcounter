@@ -73,7 +73,7 @@ Register Number: 22009266
 ![Screenshot (96)](https://user-images.githubusercontent.com/122762773/214798658-817e6c70-9aca-4313-8c18-45bfe88cedcb.png)
 
 
-### Timing Diagram:
+Timing Diagram:
 
 
 ![Screenshot (97)](https://user-images.githubusercontent.com/122762773/214799564-f19ba9ea-5124-4186-8a74-de684cc33b9e.png)
