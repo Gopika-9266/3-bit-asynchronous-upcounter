@@ -85,5 +85,5 @@ Register Number: 22009266
 ![table-5-6-2](https://user-images.githubusercontent.com/122762773/214797834-7ec3a8a6-b151-4895-8cd0-b126a0ff3834.gif)
 
 
-###Result:
+Result:
       Thus the 3 bit asychronous up counter is verified using a Verilog  programming.
