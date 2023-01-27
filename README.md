@@ -1,8 +1,9 @@
 # 3-bit-asynchronous-upcounter
 ### Aim:
+```
       To design a 3-bit-asynchronous upcounter circuit and verify its truth table using Quartus
 using verify programming.
-      
+```      
 ### Equipments Required:
      
       Hardware-PCs, Cyclone II, USB flasher
@@ -11,14 +12,16 @@ using verify programming.
       
       
 ### Theory:
-       A counter is a register capable of counting number of clock pulse arriving at its clock input.Counter represents the number of 
-clock pulses arrived. A specified sequence of states appears as counter output. This is the main difference between
-a register and a counter. There are two types of counter, synchronous and asynchronous. In synchronous common clock is 
-given to all flip flop and in asynchronous first flip flop is clocked by external pulse and then each successive
-flip flop is clocked by Q or Q output of previous stage. A soon the clock of second stage is triggered by output of first stage.
-Because of inherent propagation delay time  all flip flops are not activated at same time
-which results in asynchronous operation.  
-
+```
+       A counter is a register capable of counting number of clock pulse arriving at its clock input.
+Counter represents the number of clock pulses arrived. A specified sequence of states appears as
+counter output. This is the main difference between a register and a counter. There are two types
+of counter, synchronous and asynchronous. In synchronous common clock is given to all flip flop 
+and in asynchronous first flip flop is clocked by external pulse and then each successive
+flip flop is clocked by Q or Q output of previous stage. A soon the clock of second stage is 
+triggered by output of first stage.Because of inherent propagation delay time  all flip flops
+are not activated at same time which results in asynchronous operation.  
+```
   
 ![download (3)](https://user-images.githubusercontent.com/122762773/214794176-f4b492d1-0d9a-4c96-a462-3ce18816eecf.png)
 
