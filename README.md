@@ -94,4 +94,5 @@ Truth table:
 
 
 Result:
-      Thus the 3 bit asychronous up counter is verified using a Verilog  programming.
+     
+     Thus the 3 bit asychronous up counter is verified using a Verilog  programming.
