@@ -1,8 +1,8 @@
 # 3-bit-asynchronous-upcounter
 ### Aim:
 ```
-      To design a 3-bit-asynchronous upcounter circuit and verify its truth table using Quartus
-using verify programming.
+      To design a 3-bit-asynchronous upcounter circuit and verify its truth 
+table using Quartus using verify programming.
 ```      
 ### Equipments Required:
      
